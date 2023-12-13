@@ -14,4 +14,5 @@ function fibonacci(num){
 	 }
 }
 
-console.log(fibonacci(1))
+let ans = fibonacci(prompt());
+alert(ans);
